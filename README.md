@@ -4,8 +4,6 @@
 > [!TIP]
 > нᴇ ҕойтᴇсь контᴀктиᴘовᴀть со мной, ᴇсли вы нᴇ сдᴇлᴀли ничᴇго плохого мнᴇ или моим дᴘʏзьям, я ҕʏдʏ только ᴘᴀд пооҕщᴀться 
 
-
-
 <picture> 
  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/taroccf/read/refs/heads/main/pngegg.png">
  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/taroccf/read/refs/heads/main/pngegg.png">
